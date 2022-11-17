@@ -1,19 +1,18 @@
-  span.David{
-    font-size: large; 
-  }
-  table{
-    border: #85f389 7px ridge;
-    text-align: center;
-    vertical-align: middle;
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
+span.David{
+    font-size: large;
 }
-td, th {
-    border: rgb(39, 139, 164) 1px ridge;
-  }
+table{
+        border: #85f389 7px ridge;
+        text-align: center;
+        vertical-align: middle;
+        align-items: center;
+    }
+    td, th {
+        border: rgb(39, 139, 164) 1px ridge;
+      }
+    
 
-  html {
+html {
     background-image: url(mar.jpg);
   }
 h4.pp{
