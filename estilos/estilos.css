@@ -1,8 +1,10 @@
 table.cualidades {
     border-collapse:collapse;
   }
-span.david{
+span.David{
     font-size: x-large; 
 }
-p {color: rgb(181, 255, 177);background-color: rgb(255, 255, 207);}
+p {
+  color: rgb(181, 255, 177);background-color: rgb(255, 255, 207);
+}
    
