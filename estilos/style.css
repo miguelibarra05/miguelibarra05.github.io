@@ -1,0 +1,34 @@
+  span.David{
+    font-size: large; 
+  }
+  table{
+    border: #85f389 7px ridge;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+td, th {
+    border: rgb(39, 139, 164) 1px ridge;
+  }
+
+  html {
+    background-image: url(mar.jpg);
+  }
+h4.pp{
+    background-color: #e8f385;
+}
+h3
+ul{
+    text-decoration: underline;
+}
+h1{
+    text-align: center;
+}
+p.yo{
+    border: rgb(12, 68, 221) 5px dotted
+}
+h1,h2.oo,h2.ii,h3,h4,h5{
+    text-align: center;
+}
