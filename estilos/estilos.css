@@ -1,7 +1,8 @@
-table {
+table.cualidades {
     border-collapse:collapse;
   }
 span.david{
-    font-size: 16pt; 
+    font-size: x-large; 
 }
+p {color: rgb(181, 255, 177);background-color: rgb(255, 255, 207);}
    
