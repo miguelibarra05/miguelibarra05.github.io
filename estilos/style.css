@@ -35,3 +35,9 @@ h1,h2.oo,h2.ii,h3,h4,h5{
 p.juju{
     text-align: center;
 }
+body{
+    background-color: rgb(212, 249, 248);
+}
+html{
+    background-color: rgb(212, 249, 248);
+}
