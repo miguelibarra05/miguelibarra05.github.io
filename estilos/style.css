@@ -29,15 +29,3 @@ h1{
 p.yo{
     border: rgb(12, 68, 221) 5px dotted
 }
-h1,h2.oo,h2.ii,h3,h4,h5{
-    text-align: center;
-} 
-p.juju{
-    text-align: center;
-}
-body{
-    background-color: rgb(212, 249, 248);
-}
-html{
-    background-color: rgb(212, 249, 248);
-}
