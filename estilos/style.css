@@ -4,12 +4,13 @@ span.David{
 table.ji{
         border: #7b974d 7px ridge;
     }
-    td, th {
-        border: rgb(101, 193, 216) 1px ridge;
-      }
+
 table.jojijo{
         border: #54e492 7px ridge;
-    }
+      }
+    td, th {
+        border: rgb(172, 219, 84) 1px ridge;
+          }
 
 h4.pp{
     background-color: #e8f385;
