@@ -1,13 +1,16 @@
 span.David{
     font-size: large;
 }
-table{
-        border: #85f389 7px ridge;
+table.ji{
+        border: #7b974d 7px ridge;
     }
     td, th {
-        border: rgb(39, 139, 164) 1px ridge;
+        border: rgb(101, 193, 216) 1px ridge;
       }
-    
+table.jo{
+        border: #54e492 7px ridge;
+    }
+
 h4.pp{
     background-color: #e8f385;
 }
